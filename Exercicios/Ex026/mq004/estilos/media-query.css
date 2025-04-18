@@ -22,6 +22,7 @@ Grandes telas: acimade 1200px
     }
 
     main {
+        width: 90vw;
         border: 2px solid black;
     }
 
